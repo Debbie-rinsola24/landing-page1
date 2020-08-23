@@ -1,0 +1,61 @@
+body {
+    height: 100%;
+    width: 100%;
+}
+
+main{
+    height: 700px;
+    width: 100%;
+   background-color: rgb(23, 145, 185);
+}
+/*navbar*/
+.nav-link {
+       color: #fff;
+}
+/* center */
+.cente{
+   padding-left: 200px;
+   line-height: 1;
+}
+h1{
+    color: #ffffff;
+    font-size: 600px;
+    font-family: rockwell extra Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: inline-block;
+}
+
+h2{
+    color: #ffffff;
+    font-size: 500px;
+    font-family: rockwell extra Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+}
+.text{
+    color: #ffffff;
+    font-size: 40px;
+    font-family: rockwell extra Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
+}
+
+
+.button{
+    background-color:rgb(23, 145, 185) ;
+    border-block-color: #ffffff;
+    border-radius: 50px;
+    
+}
+img{
+    height: 500px;
+    margin-top: 50px;
+   width: 600px;
+    border-radius: ;
+   position: absolute;
+    padding-left: 200px;
+}
+
+/* footer */
+#footer {
+    color:rgb(109, 194, 223);
+    font-size: 30px;
+    font-family: rockwell extra Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    padding-top:45px ;
+    text-align: center;
+}
